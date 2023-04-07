@@ -32,3 +32,5 @@ fclose($file);
 $conn->close();
 
 echo "Data imported successfully";
+
+?>
